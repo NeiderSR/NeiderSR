@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ## Hello! 👋
-My name's Neider and I'm a _Computer Science_ student. 🧑‍💻
+My name's Neider and I'm a _Computer Science_ graduate. 🧑‍💻
 
-I have a special interest in software development, particularly in UI/UX design and usability testings.
+I have a special interest in software development, particularly in UI/UX design and usability testing.
